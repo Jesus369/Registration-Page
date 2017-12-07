@@ -1,0 +1,28 @@
+body {
+  display: flex;
+  flex-wrap: wrap;
+  background-color: #D8C0AC;
+}
+.styleForm{
+  margin: 0 auto 0 auto;
+}
+
+.styleRegister {
+  background-color: #F1F1F1;
+  box-shadow: 0 2px 2px 0;
+  margin: 0 auto 0 auto;
+}
+
+.styleLegend{
+  background-color: white;
+  border: 1px solid black;
+  box-shadow: 0 1px 1px 1px;
+}
+
+.styleButton {
+  box-shadow: 1px 2px 2px 1px;
+}
+
+.needThis {
+  color:red;
+}
